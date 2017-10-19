@@ -1,0 +1,4 @@
+# ignoruj wszystkie pliki wynikowe kompilacji, u nas z rozszerzeniem .o
+
+*.o
+
